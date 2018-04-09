@@ -1,2 +1,4 @@
 // 引入依赖
-import builderVue from '../package/Json-vue/src/index.js'
+import JsonVue from '../package/Json-vue/src/index.js'
+
+JsonVue.start()
