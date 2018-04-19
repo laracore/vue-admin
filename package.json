@@ -14,7 +14,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
     "lf-cache": "^1.0.9",
     "localforage": "^1.7.1",
     "vue": "^2.5.2",
