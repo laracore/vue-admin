@@ -20,6 +20,7 @@
     "apollo-link-http": "^1.5.4",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.8.0",
+    "iview": "^2.13.0",
     "lf-cache": "^1.0.9",
     "localforage": "^1.7.1",
     "vue": "^2.5.2",
