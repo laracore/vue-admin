@@ -4784,9 +4784,9 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lf-cache@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/lf-cache/-/lf-cache-1.0.9.tgz#8c693a85cf0ae1aa467dbcfd1dd89c24f8fa2ddf"
+lf-cache@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/lf-cache/-/lf-cache-1.0.10.tgz#6074e0a228e7f8d2c057a36c0a80a3dffd917fd6"
   dependencies:
     localforage "^1.7.1"
 
