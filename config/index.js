@@ -8,7 +8,7 @@ module.exports = {
   dev: {
 
     // Paths
-    assetsSubDirectory: 'vendor/admin',
+    assetsSubDirectory: 'vendor/admin', //镜像 static 目录到 vendor/admin dev 模式用
     assetsPublicPath: '/',
     proxyTable: {},
 
@@ -49,7 +49,7 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'vendor/admin',
+    assetsSubDirectory: 'vendor/admin', //实际打包后的路径
     assetsPublicPath: '/',
 
     /**
