@@ -14,6 +14,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "ag-grid": "^18.1.2",
+    "ag-grid-enterprise": "^19.0.0",
+    "ag-grid-vue": "^19.0.0",
     "apollo-cache-inmemory": "^1.1.12",
     "apollo-client": "^2.2.8",
     "apollo-link": "^1.2.2",
